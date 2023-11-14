@@ -2,6 +2,8 @@
 
 This simple web application allows users to check the weather forecast for a specific city. It consists of two pages - `main.html` for entering the city and `weather.html` for displaying the weather information.
 
+## You can test the site here: https://nirtkor.github.io/
+
 ## Features
 
 - **City Input**: Users can enter the name of a city.
@@ -27,3 +29,4 @@ Both pages have a similar style:
 - `main.html`: Page for entering the city.
 - `weather.html`: Page for displaying weather information.
 - `index.js`: JavaScript file for fetching location and weather data.
+
